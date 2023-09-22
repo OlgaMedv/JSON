@@ -1,1 +1,8 @@
-
+{
+  "id": 1,
+  "environment": "Safari",
+  "title": "The password is not entered in the menu item [Trade View] when clicking on the password input field.",
+  "steps": "Navigate to, Hover on menu section, Tab menu item [Trade View], Scroll down to the block, Enter login, Tab on the password field",
+  "expected_result": "In the password field password is entered",
+  "actual_result": "As you enter your password, the page scrolls up"
+}
